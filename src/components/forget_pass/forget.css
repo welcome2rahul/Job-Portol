@@ -1,0 +1,18 @@
+.form-gap {
+    padding-top: 70px;
+    
+    
+}
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.panel{
+    border: 1.5px solid rgb(250, 145, 7) ;
+    padding: 20px;
+    
+}
